@@ -1,5 +1,6 @@
 Hi there 👋 My name is Pavel and I'm frontend software developer 👨🏻‍💻. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here
 
+- 🌱 I’m currently learning, always learning)))
 <!--
 **pasadem/pasadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,8 @@ Hi there 👋 My name is Pavel and I'm frontend software developer 👨🏻‍�
 - 🌱 I’m currently learning ReactJS, Vue
 ### How to reach me: 
 - pdemianski75@gmail.com
-- [@pasadem](https://t.me/pasadem)
+- [Telegram](https://t.me/pasadem)
+- [LinkedIn](linkedin.com/in/павел-демьянский-5b602a49)
 
 ### Hard Skills
 - HTML

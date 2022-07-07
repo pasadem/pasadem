@@ -1,7 +1,7 @@
 Hi there 👋 My name is Pavel and I'm frontend software developer 👨🏻‍💻. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here
 
 - 🌱 I’m currently learning ReactJS, Vue
-- 📫 ### How to reach me: 
+### How to reach me: 
 - pdemianski75@gmail.com
 - [@pasadem](https://t.me/pasadem)
 

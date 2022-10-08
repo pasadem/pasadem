@@ -1,22 +1,21 @@
 Hi there 👋 My name is Pavel and I'm frontend software developer 👨🏻‍💻. I am always open to collaborating on projects and innovative ideas. Find out more about me & feel free to connect with me here
 
-- 🌱 I’m currently learning ReactJS, Vue
 ### How to reach me: 
 - pdemianski75@gmail.com
 - [Telegram](https://t.me/pasadem)
 - [LinkedIn](linkedin.com/in/павел-демьянский-5b602a49)
 
 ### Hard Skills
-- HTML
+- HTML5
 - CSS
 - JavaScript
+- React, Redux, Reduxjs/toolkit
 - Git
 - Jest
-- Playwright
 - Bootstrap
-- i18next
 - REST API
-- React, redux, redux/toolkit
+- Node.js
+
 <!--
 **pasadem/pasadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
